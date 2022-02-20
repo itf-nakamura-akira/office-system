@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OfficeSystemAccountApplication<office-system-account>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "jp.co.itfllc.officesystemaccount.OfficeSystemAccountApplication",
+            "projectName": "office-system-account",
+            "args": ""
+        }
+    ]
+}

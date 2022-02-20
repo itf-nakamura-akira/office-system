@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>jp.co.itfllc</groupId>
 	<artifactId>office-system-account</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>office-system-account</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Office System project for Account</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
