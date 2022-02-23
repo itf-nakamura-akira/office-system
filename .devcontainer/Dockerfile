@@ -22,6 +22,7 @@ RUN apt-get update \
     gpg-agent \
     mysql-client \
     maven \
+    clang-format \
     2>&1
 
 # Clean up
